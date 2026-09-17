@@ -1,0 +1,257 @@
+[
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_001",
+    "text": "| Document ID      | OPS-SOP-001                                      |\n|------------------|--------------------------------------------------|\n| Department       | Operations                                       |\n| Document Type    | SOP                                              |\n| Policy Title     | Business Operations Standard Operating Procedure |\n| Version          | 2026                                             |\n| Effective Date   | 01-Apr-2026                                      |\n| Owner Department | Operations                                       |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "NovaCore Technologies Pvt. Ltd. OPERATIONS SOP",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_002",
+    "text": "This Standard Operating Procedure defines the process for identifying, classifying, responding to, escalating, resolving, closing, and documenting operational incidents and service requests.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "1. Purpose",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_003",
+    "text": "This SOP applies to business operations teams, department managers, IT teams involved in technical incidents, and employees reporting operational issues.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "2. Scope",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_004",
+    "text": "Operations coordinates business service requests, operational incidents, service-impacting issues, escalation, stakeholder communication, and closure documentation.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "3. Operational Activities",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_005",
+    "text": "Requests should be recorded with requester information, business requirement, priority where relevant, requested date, and responsible owner.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "4. Service Requests",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_006",
+    "text": "An incident is an event that disrupts or threatens normal business operations. Employees should report incidents through the designated organizational channel with sufficient information for classification and response.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "5. Incident Identification and Reporting",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_007",
+    "text": "Incidents are classified as P1 Critical, P2 High, or P3 Normal according to business impact, urgency, scope, and operational disruption.\n\n| Priority      | Description                                          | Initial Response   |\n|---------------|------------------------------------------------------|--------------------|\n| P1 - Critical | Critical business disruption or major service impact | 30 minutes         |\n| P2 - High     | Significant service or business impact               | 2 hours            |\n| P3 - Normal   | Normal operational issue with limited impact         | 1 business day     |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "6. Incident Classification",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_008",
+    "text": "Operations acknowledges and coordinates the incident according to priority. The initial response should establish impact, affected services or processes, known information, and immediate actions.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "7. Initial Response",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_009",
+    "text": "Incidents are escalated according to priority and the applicable Escalation Matrix. Technology incidents may require escalation to IT for technical investigation.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "8. Escalation",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_010",
+    "text": "The responsible team investigates and performs corrective action. Operations coordinates business impact and stakeholder communication for operational incidents.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "9. Resolution",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_011",
+    "text": "An incident may be closed after the responsible owner confirms that the service or process has been restored or the applicable resolution has been completed and closure information has been recorded.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "10. Closure",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_012",
+    "text": "Incident records should include classification, timestamps, actions taken, escalation history, resolution details, and relevant stakeholder communication.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "11. Documentation",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_013",
+    "text": "Operations coordinates business incidents and operational impact. IT investigates technology incidents. Managers coordinate business decisions and stakeholder actions where required.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "12. Responsibilities",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_014",
+    "text": "Exceptions may apply for force majeure, planned maintenance, restricted security communications, third-party failures, or other documented circumstances.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "13. Exceptions",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_014"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_015",
+    "text": "2025 - Initial SOP issued. 2026 - Incident classification, response, escalation, and documentation procedures updated.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Operations_SOP",
+      "document_type": "PDF",
+      "source_file": "data/raw/Operations/Operations_SOP.pdf",
+      "policy_title": "Business Operations Standard Operating Procedure",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_OPERATIONS_SOP",
+      "section": "14. Revision History",
+      "chunk_id": "OPERATIONS_OPERATIONS_SOP_CHUNK_015"
+    }
+  }
+]

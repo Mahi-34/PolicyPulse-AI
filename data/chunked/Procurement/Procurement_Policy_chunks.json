@@ -1,0 +1,274 @@
+[
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_001",
+    "text": "| Document ID      | PROC-POL-001                      |\n|------------------|-----------------------------------|\n| Department       | Procurement                       |\n| Document Type    | Policy                            |\n| Policy Title     | Procurement and Purchasing Policy |\n| Version          | 2026                              |\n| Effective Date   | 01-Apr-2026                       |\n| Owner Department | Procurement                       |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "NovaCore Technologies Pvt. Ltd. PROCUREMENT POLICY",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_002",
+    "text": "This policy establishes the standards for purchasing goods and services, vendor selection, quotation requirements, purchase orders, approvals, exceptions, and emergency procurement.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_003",
+    "text": "This policy applies to departments, employees, Procurement personnel, budget owners, and vendors participating in purchases made on behalf of NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_004",
+    "text": "Procurement Committee means the designated cross-functional body responsible for reviewing purchases above the applicable Procurement threshold. Single-source procurement means procurement from one identified supplier without a competitive quotation process.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "3. Definitions",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_005",
+    "text": "Procurement decisions must be transparent, documented, commercially reasonable, and consistent with approved business requirements. Conflicts of interest must be disclosed. Applicable Finance, Legal, security, and business controls remain relevant.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "4. Procurement Principles",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_006",
+    "text": "A purchase request should identify the business requirement, estimated value, specifications or scope, budget owner, requested delivery date, and any known supplier or urgency considerations.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "5. Purchase Requisition",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_007",
+    "text": "Procurement evaluates suppliers using relevant commercial, technical, quality, compliance, delivery, and risk criteria. Higher-risk or specialized vendors may require additional due diligence and Legal review.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "6. Vendor Selection",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_008",
+    "text": "Quotation requirements are based on purchase value and are summarized below:\n\n| Purchase Value          | Minimum Quotation Requirement   |\n|-------------------------|---------------------------------|\n| Up to n 1,00,000        | 1 quotation                     |\n| n 1,00,001 - n 5,00,000 | 2 quotations                    |\n| Above n 5,00,000        | 3 quotations                    |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "7. Quotation Requirements",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_009",
+    "text": "Purchases exceeding n 5,00,000 require Procurement Committee approval before a purchase order is issued. Purchases above n 10,00,000 also remain subject to applicable Finance approval, including CFO approval under the Finance policy.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "8. Procurement Approval",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_010",
+    "text": "A purchase order should be issued before a supplier becomes contractually or financially committed, except where an approved emergency or documented exception applies.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "9. Purchase Orders",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_011",
+    "text": "Single-source procurement may be permitted for proprietary technology, specialized services, an only-qualified supplier, or another documented business justification. The requesting department must document the rationale and obtain applicable approvals.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "10. Single-Source Exception",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_012",
+    "text": "Emergency procurement may be used where delay could materially affect business continuity, safety, critical operations, or preventable loss. The reason, supplier selection, commercial basis, and retrospective approvals must be documented within 2 business days.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "11. Emergency Procurement",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_013",
+    "text": "Requesting departments define requirements and business justification. Procurement manages sourcing and commercial evaluation. Finance performs applicable financial review. Legal performs applicable legal review. Approvers confirm that required controls have been completed.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "12. Responsibilities",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_014",
+    "text": "Exceptions require documented justification and approval from the applicable authority. An exception to competitive quotations does not automatically remove Finance, Legal, security, or contractual requirements.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "13. Exceptions",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_014"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_015",
+    "text": "Procurement requests, quotations, evaluations, approvals, purchase orders, exceptions, and related records must be retained for 7 years unless a longer period is required.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "14. Record Retention",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_015"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_016",
+    "text": "2025 - Initial policy issued. 2026 - Procurement thresholds, quotation requirements, and exception handling reviewed and updated.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Procurement/Procurement_Policy.pdf",
+      "policy_title": "Procurement and Purchasing Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_POLICY",
+      "section": "15. Revision History",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_POLICY_CHUNK_016"
+    }
+  }
+]

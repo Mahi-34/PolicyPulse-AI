@@ -1,0 +1,257 @@
+[
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_001",
+    "text": "| Document ID      | HR-POL-001                           |\n|------------------|--------------------------------------|\n| Department       | HR                                   |\n| Document Type    | Policy                               |\n| Policy Title     | Employee Leave and Attendance Policy |\n| Version          | 2026                                 |\n| Effective Date   | 01-Apr-2026                          |\n| Owner Department | HR                                   |",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "LEAVE POLICY",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_002",
+    "text": "This policy establishes leave entitlements, application procedures, approval levels, attendance expectations, extended leave requirements, and responsibilities for employees of NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_003",
+    "text": "This policy applies to employees unless a separate employment arrangement or applicable statutory requirement provides a different entitlement.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_004",
+    "text": "The standard leave categories are Annual/Earned Leave, Casual Leave, Sick Leave, and Bereavement Leave.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "3. Leave Categories",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_005",
+    "text": "Employees are entitled to 18 days of Annual/Earned Leave per applicable leave year.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "4. Annual Entitlement",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_006",
+    "text": "Employees are entitled to 8 days of Casual Leave per applicable leave year, subject to business requirements and approval.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "5. Casual Leave",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_007",
+    "text": "Employees are entitled to 10 days of Sick Leave per applicable leave year. Employees should inform their manager as soon as reasonably possible when absence is unplanned.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "6. Sick Leave",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_008",
+    "text": "Employees may receive 5 days of Bereavement Leave for qualifying circumstances.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "7. Bereavement Leave",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_009",
+    "text": "Planned leave should be requested through the designated process before the absence. Approval depends on the number of consecutive leave days:\n\n| Consecutive Leave   | Required Approval    |\n|---------------------|----------------------|\n| Up to 3 days        | Manager              |\n| 4-10 days           | Department Head      |\n| More than 10 days   | HR + Department Head |",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "8. Leave Application and Approval",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_010",
+    "text": "Leave exceeding 10 consecutive days requires HR and Department Head approval. Supporting information may be requested where applicable.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "9. Extended Leave",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_011",
+    "text": "Employees must notify their manager as soon as reasonably possible. Repeated or unexplained absence may be reviewed under applicable attendance procedures.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "10. Unplanned Absence",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_012",
+    "text": "Managers should consider operational continuity and critical project requirements when reviewing planned leave. Business constraints do not remove the need for a fair and documented review.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "11. Critical Projects",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_013",
+    "text": "Employees submit accurate leave requests and communicate unplanned absence. Managers review requests and business continuity. HR maintains policy guidance and employee records.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "12. Responsibilities",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_014",
+    "text": "Exceptions may be considered for documented circumstances and applicable statutory or organizational requirements.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "13. Exceptions",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_014"
+    }
+  },
+  {
+    "chunk_id": "HR_LEAVE_POLICY_CHUNK_015",
+    "text": "2025 - Initial policy issued. 2026 - Leave entitlements and approval levels reviewed and updated.",
+    "metadata": {
+      "department": "HR",
+      "document_name": "Leave_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/HR/Leave_Policy.pdf",
+      "policy_title": "Employee Leave and Attendance Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "HR",
+      "document_id": "HR_LEAVE_POLICY",
+      "section": "14. Revision History",
+      "chunk_id": "HR_LEAVE_POLICY_CHUNK_015"
+    }
+  }
+]

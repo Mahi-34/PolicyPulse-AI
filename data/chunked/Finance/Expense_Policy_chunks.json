@@ -1,0 +1,240 @@
+[
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_001",
+    "text": "**NovaCore Technologies Pvt. Ltd.  \nEXPENSE POLICY**\n\n| **Document ID**      | FIN-POL-002                               |\n|----------------------|-------------------------------------------|\n| **Department**       | Finance                                   |\n| **Document Type**    | Policy                                    |\n| **Policy Title**     | Employee Expense and Reimbursement Policy |\n| **Version**          | 2026                                      |\n| **Effective Date**   | 01-Apr-2026                               |\n| **Owner Department** | Finance                                   |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "Document Introduction",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_002",
+    "text": "This policy defines eligible employee expenses, reimbursement limits, approval requirements, supporting documentation, and reimbursement procedures.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_003",
+    "text": "The policy applies to employees incurring legitimate business expenses on behalf of NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_004",
+    "text": "Expenses must be business-related, reasonable, documented, within applicable limits, and submitted within the required timeline.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "3. General Principles",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_005",
+    "text": "| **Expense Category**   | **Maximum Reimbursement Limit**   | **Notes**                                         |\n|------------------------|-----------------------------------|---------------------------------------------------|\n| Hotel                  | ₹6,000 per night                  | Business travel; supporting invoice required      |\n| Meals                  | ₹1,500 per day                    | Business travel or approved business activity     |\n| Local Transport        | ₹1,000 per day                    | Business-related local travel                     |\n| Client Entertainment   | ₹3,000 per person                 | Business purpose and participant details required |\n| Miscellaneous          | ₹5,000 per claim                  | Must be business-related and justified            |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "4. Expense Categories and Limits",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_006",
+    "text": "Claims up to ₹25,000 require manager approval. Claims from ₹25,001 to ₹1,00,000 require Department Head approval. Claims above ₹1,00,000 require Finance Controller approval.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "5. Approval Requirements",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_007",
+    "text": "Employees must submit claims within 15 calendar days of the expense date.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "6. Submission Deadline",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_008",
+    "text": "Valid invoices, receipts, travel records, participant details where applicable, and business justification must accompany claims.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "7. Supporting Documentation",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_009",
+    "text": "The employee submits the claim; the designated approver reviews it; Finance validates compliance; approved claims are processed.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "8. Reimbursement Process",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_010",
+    "text": "Personal expenses, unsupported expenses, expenses outside limits without an authorized exception, penalties or fines, and unrelated expenses are not reimbursable.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "9. Non-Reimbursable Expenses",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_011",
+    "text": "Exceptional expenses may be considered with documented business justification and appropriate approval.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "10. Exceptions",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_012",
+    "text": "Employees submit accurate claims. Managers and Department Heads review business necessity. Finance validates compliance and reimbursement eligibility.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "11. Responsibilities",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_013",
+    "text": "Expense claims and supporting records must be retained for 7 years unless a longer period is required.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "12. Record Retention",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_014",
+    "text": "2025 — Initial policy issued. 2026 — Expense limits, approval levels, and emergency handling updated.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Expense_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Finance/Expense_Policy.docx",
+      "policy_title": "Employee Expense and Reimbursement Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_EXPENSE_POLICY",
+      "section": "13. Revision History",
+      "chunk_id": "FINANCE_EXPENSE_POLICY_CHUNK_014"
+    }
+  }
+]

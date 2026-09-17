@@ -1,0 +1,240 @@
+[
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_001",
+    "text": "| Document ID      | LEG-POL-001                         |\n|------------------|-------------------------------------|\n| Department       | Legal                               |\n| Document Type    | Policy                              |\n| Policy Title     | Contract Review and Approval Policy |\n| Version          | 2026                                |\n| Effective Date   | 01-Apr-2026                         |\n| Owner Department | Legal                               |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "CONTRACT POLICY",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_002",
+    "text": "This policy establishes requirements for contract initiation, legal review, approval, execution, mandatory clauses, exceptions, and contract record retention.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_003",
+    "text": "This policy applies to vendor, software, consulting, service, confidentiality, data protection, and other business contracts entered into by NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_004",
+    "text": "Contracts may include vendor agreements, software licenses, consulting agreements, service agreements, NDAs, DPAs, and other business arrangements.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "3. Contract Types",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_005",
+    "text": "The business owner identifies the requirement, commercial context, counterparty, scope, estimated value, and relevant risk considerations. Procurement participates where the contract relates to sourcing or vendor selection.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "4. Contract Initiation",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_006",
+    "text": "All non-standard vendor contracts require Legal review. A standard approved template without material changes may follow the applicable simplified process, subject to other required approvals.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "5. Legal Review",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_007",
+    "text": "Contract value affects approval and review requirements as follows:\n\n| Contract Value / Type                   | Legal Review                      | Financial / Management Approval      |\n|-----------------------------------------|-----------------------------------|--------------------------------------|\n| Up to n 5,00,000 standard process       | As required by contract type/risk | Applicable business/Finance approval |\n| n 5,00,001 - n 25,00,000                | Required                          | Finance approval as applicable       |\n| Above n 25,00,000                       | Required                          | Finance approval + senior approval   |\n| Non-standard vendor contract, any value | Required                          | Applicable business/Finance approval |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "6. Contract Value and Review",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_008",
+    "text": "Where applicable, contracts should address confidentiality, data protection, intellectual property, liability, termination, dispute resolution, and governing law.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "7. Mandatory Clauses",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_009",
+    "text": "Contracts must receive applicable business, financial, Legal, and management approvals before execution. Approval requirements may apply cumulatively where multiple controls are triggered.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "8. Approval",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_010",
+    "text": "Exceptions require documented justification and appropriate Legal/business approval. An exception to a Legal review step does not automatically waive financial, procurement, security, or other requirements.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "9. Exceptions",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_011",
+    "text": "Only authorized organizational signatories may execute contracts on behalf of NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "10. Execution",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_012",
+    "text": "Executed contracts, approvals, material drafts, legal comments where required, and related records must be retained according to organizational retention requirements.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "11. Record Retention",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_013",
+    "text": "Business owners define requirements and commercial context. Procurement manages applicable sourcing processes. Finance performs financial review. Legal performs legal review and advises on contractual risk. Authorized signatories execute contracts.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "12. Responsibilities",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_014",
+    "text": "2025 - Initial policy issued. 2026 - Contract thresholds, mandatory clauses, and review workflow updated.",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Legal/Contract_Policy.pdf",
+      "policy_title": "Contract Review and Approval Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_POLICY",
+      "section": "13. Revision History",
+      "chunk_id": "LEGAL_CONTRACT_POLICY_CHUNK_014"
+    }
+  }
+]

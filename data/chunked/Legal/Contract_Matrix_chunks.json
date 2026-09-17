@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_001",
+    "text": "| Document ID      | LEG-MAT-001     |\n|------------------|-----------------|\n| Department       | Legal           |\n| Document Name    | Contract Matrix |\n| Document Type    | Approval Matrix |\n| Version          | 2026            |\n| Effective Date   | 01-Apr-2026     |\n| Owner Department | Legal           |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Legal/Contract_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_MATRIX",
+      "section": "Table 1",
+      "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_002",
+    "text": "| Contract Category              | Value Range            | Legal Review         | Finance Review   | Management Approval                     | Notes                                       |\n|--------------------------------|------------------------|----------------------|------------------|-----------------------------------------|---------------------------------------------|\n| Standard vendor contract       | Up to ₹5,00,000        | As required          | As applicable    | Business approval                       | Use approved template where applicable      |\n| Standard vendor contract       | ₹5,00,001 – ₹25,00,000 | Yes                  | Yes              | Business approval as applicable         | Legal review required                       |\n| Standard vendor contract       | Above ₹25,00,000       | Yes                  | Yes              | Senior management                       | Legal + Finance + senior approval           |\n| Non-standard vendor contract   | Any value              | Yes                  | As applicable    | Authorized management/business approval | Material changes trigger Legal review       |\n| Software / technology contract | Any value              | Yes where applicable | As applicable    | Authorized approval                     | Review data, IP and security considerations |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Legal/Contract_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_MATRIX",
+      "section": "Table 2",
+      "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_003",
+    "text": "| Contract Type        | Typical Purpose            | Legal Review         | Key Considerations                                |\n|----------------------|----------------------------|----------------------|---------------------------------------------------|\n| Vendor Agreement     | Purchase of goods/services | As applicable        | Scope, liability, termination, compliance         |\n| Software License     | Software procurement/use   | Yes where applicable | License rights, data, IP, security                |\n| Consulting Agreement | Professional services      | As applicable        | Scope, IP, confidentiality, liability             |\n| Service Agreement    | Ongoing services           | As applicable        | SLA, performance, termination, liability          |\n| NDA                  | Confidential information   | Yes where required   | Confidentiality and permitted disclosure          |\n| DPA                  | Data processing            | Yes where applicable | Data protection, security, processing obligations |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Legal/Contract_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_MATRIX",
+      "section": "Table 3",
+      "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_004",
+    "text": "| Clause                | Applicability                            | Purpose                          | Review Consideration                 |\n|-----------------------|------------------------------------------|----------------------------------|--------------------------------------|\n| Confidentiality       | Where confidential information is shared | Protect confidential information | Scope and permitted disclosure       |\n| Data Protection       | Where data protection obligations apply  | Define data handling obligations | Applicable data requirements         |\n| Intellectual Property | Technology/content/deliverables          | Define ownership or rights       | Ownership, license and permitted use |\n| Liability             | Contracts with material exposure         | Allocate financial/legal risk    | Caps, exclusions and remedies        |\n| Termination           | Most ongoing agreements                  | Define exit rights               | Notice, cause, transition            |\n| Dispute Resolution    | Contractual disputes                     | Define dispute process           | Forum and process                    |\n| Governing Law         | Contracts requiring legal framework      | Define applicable law            | Jurisdiction and enforceability      |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Legal/Contract_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_MATRIX",
+      "section": "Table 4",
+      "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_005",
+    "text": "| Stage                             | Primary Owner        | Activity                                         | Output                     | Related Control            |\n|-----------------------------------|----------------------|--------------------------------------------------|----------------------------|----------------------------|\n| 1. Business Requirement           | Business Department  | Define need, scope and counterparty              | Contract request           | Business justification     |\n| 2. Procurement Review             | Procurement          | Conduct sourcing/vendor process where applicable | Vendor selection           | Procurement Policy         |\n| 3. Finance Review                 | Finance              | Assess financial approval requirements           | Finance clearance/approval | Finance Approval Policy    |\n| 4. Legal Review                   | Legal                | Review legal and contractual risk                | Legal comments/clearance   | Contract Policy            |\n| 5. Authorized Management Approval | Authorized Approver  | Confirm required approvals                       | Approval to execute        | Applicable approval matrix |\n| 6. Execution                      | Authorized Signatory | Sign contract                                    | Executed contract          | Signing authority          |\n| 7. Record                         | Legal                | Maintain contract record                         | Contract repository record | Retention requirements     |",
+    "metadata": {
+      "department": "Legal",
+      "document_name": "Contract_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Legal/Contract_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Legal",
+      "document_id": "LEGAL_CONTRACT_MATRIX",
+      "section": "Table 5",
+      "chunk_id": "LEGAL_CONTRACT_MATRIX_CHUNK_005"
+    }
+  }
+]

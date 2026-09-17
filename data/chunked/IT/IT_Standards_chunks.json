@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "IT_IT_STANDARDS_CHUNK_001",
+    "text": "| Document ID      | IT-MAT-001       |\n|------------------|------------------|\n| Department       | IT               |\n| Document Name    | IT Standards     |\n| Document Type    | Standards Matrix |\n| Version          | 2026             |\n| Effective Date   | 01-Apr-2026      |\n| Owner Department | IT               |",
+    "metadata": {
+      "department": "IT",
+      "document_name": "IT_Standards",
+      "document_type": "XLSX",
+      "source_file": "data/raw/IT/IT_Standards.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_IT_STANDARDS",
+      "section": "Table 1",
+      "chunk_id": "IT_IT_STANDARDS_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "IT_IT_STANDARDS_CHUNK_002",
+    "text": "| Device Type       | Standard Lifecycle               | Minimum Security Controls                                    | Primary Use                | Notes                   |\n|-------------------|----------------------------------|--------------------------------------------------------------|----------------------------|-------------------------|\n| Laptop            | 4 years                          | MFA, encryption, approved endpoint controls                  | General employee computing | IT assignment required  |\n| Desktop           | 5 years                          | MFA where applicable, encryption, approved endpoint controls | Fixed workstation roles    | IT assignment required  |\n| Mobile            | 3 years                          | MFA where supported, device security controls                | Business communication     | Company-approved device |\n| Tablet            | 3 years                          | MFA where supported, device security controls                | Approved business use      | Company-approved device |\n| Network Equipment | Lifecycle based on IT assessment | Configuration and access controls                            | Infrastructure             | IT-managed              |\n| Peripherals       | Lifecycle based on condition     | Applicable device controls                                   | Business support           | Tracked where required  |",
+    "metadata": {
+      "department": "IT",
+      "document_name": "IT_Standards",
+      "document_type": "XLSX",
+      "source_file": "data/raw/IT/IT_Standards.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_IT_STANDARDS",
+      "section": "Table 2",
+      "chunk_id": "IT_IT_STANDARDS_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "IT_IT_STANDARDS_CHUNK_003",
+    "text": "| Access Category   | Example Systems                   | MFA                                 | Review Frequency        | Approval/Input                         |\n|-------------------|-----------------------------------|-------------------------------------|-------------------------|----------------------------------------|\n| Standard          | Finance/HR business systems       | Required where supported/designated | Quarterly               | Authorized manager request             |\n| Restricted        | Production systems                | Required                            | Monthly or risk-based   | Additional authorization as required   |\n| Privileged        | Administrative systems            | Required                            | Monthly                 | Elevated authorization and IT review   |\n| Remote Access     | Approved organizational resources | Required                            | Quarterly or risk-based | Authorized request + security controls |",
+    "metadata": {
+      "department": "IT",
+      "document_name": "IT_Standards",
+      "document_type": "XLSX",
+      "source_file": "data/raw/IT/IT_Standards.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_IT_STANDARDS",
+      "section": "Table 3",
+      "chunk_id": "IT_IT_STANDARDS_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "IT_IT_STANDARDS_CHUNK_004",
+    "text": "| Control                     | Standard                                               | Applies To              | Review/Trigger             | Owner         |\n|-----------------------------|--------------------------------------------------------|-------------------------|----------------------------|---------------|\n| Multi-Factor Authentication | Required where supported and designated                | Organizational accounts | Access provisioning/review | IT            |\n| Encryption                  | Required for designated organizational devices         | Company devices         | Asset lifecycle            | IT            |\n| Credential Protection       | Credentials must not be shared                         | All users               | Continuous                 | Employee + IT |\n| Secure Remote Access        | Approved devices, authentication and security controls | Remote workers          | Remote-work arrangement    | IT            |\n| Incident Reporting          | Report suspected security incidents to IT              | All users               | When incident suspected    | Employee + IT |",
+    "metadata": {
+      "department": "IT",
+      "document_name": "IT_Standards",
+      "document_type": "XLSX",
+      "source_file": "data/raw/IT/IT_Standards.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_IT_STANDARDS",
+      "section": "Table 4",
+      "chunk_id": "IT_IT_STANDARDS_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "IT_IT_STANDARDS_CHUNK_005",
+    "text": "| Lifecycle Event     | HR Action                      | IT Action                                       | Access Control                                 | Asset Control                                                  | Deadline                |\n|---------------------|--------------------------------|-------------------------------------------------|------------------------------------------------|----------------------------------------------------------------|-------------------------|\n| New Hire            | Create/confirm employee record | Provision authorized account and prepare assets | Based on authorized request + manager approval | Assign and record asset                                        | Before/at joining       |\n| Role Change         | Update role/lifecycle record   | Review and modify access/assets as applicable   | Review privileges for new role                 | Review assigned assets                                         | When change is approved |\n| Department Transfer | Update department information  | Review access and assets for new department     | Modify access as authorized                    | Review assignment                                              | At transfer             |\n| Exit                | Complete separation process    | Disable organizational access                   | Access disabled by final working day           | Assets returned by final working day unless approved exception | Final working day       |",
+    "metadata": {
+      "department": "IT",
+      "document_name": "IT_Standards",
+      "document_type": "XLSX",
+      "source_file": "data/raw/IT/IT_Standards.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_IT_STANDARDS",
+      "section": "Table 5",
+      "chunk_id": "IT_IT_STANDARDS_CHUNK_005"
+    }
+  }
+]

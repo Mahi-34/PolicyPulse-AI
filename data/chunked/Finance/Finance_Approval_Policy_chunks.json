@@ -1,0 +1,257 @@
+[
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_001",
+    "text": "| Document ID      | FIN-POL-001                                 |\n|------------------|---------------------------------------------|\n| Department       | Finance                                     |\n| Document Type    | Policy                                      |\n| Policy Title     | Financial Approval and Authorization Policy |\n| Version          | 2026                                        |\n| Effective Date   | 01-Apr-2026                                 |\n| Owner Department | Finance                                     |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "NovaCore Technologies Pvt. Ltd. FINANCE APPROVAL POLICY",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_002",
+    "text": "This policy establishes financial approval authorities and authorization requirements for purchases, operating expenses, capital expenditure, employee expenses, and emergency purchases.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_003",
+    "text": "This policy applies to employees, managers, department heads, Finance personnel, and business units initiating or approving financial commitments on behalf of NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_004",
+    "text": "Purchase means acquisition of goods or services for business use. Capital Expenditure means spending that creates or materially improves an asset. Emergency Purchase means a purchase required to protect business continuity, safety, critical operations, or prevent material loss.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "3. Definitions",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_005",
+    "text": "Financial commitments must be authorized before the organization becomes contractually or financially obligated, unless an approved emergency exception applies. Approvers must review business purpose, budget availability, supporting documentation, and applicable policies.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "4. Financial Approval Principles",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_006",
+    "text": "| Purchase Value           | Required Approval Authority   |\n|--------------------------|-------------------------------|\n| Up to n 1,00,000         | Department Manager            |\n| n 1,00,001 - n 5,00,000  | Department Head               |\n| n 5,00,001 - n 10,00,000 | Finance Controller            |\n| Above n 10,00,000        | Chief Financial Officer (CFO) |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "5. Purchase Approval Thresholds",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_007",
+    "text": "Capital expenditure above n 5,00,000 requires Finance review. Capital expenditure above n 10,00,000 additionally requires CFO approval. Requests must include business justification, useful life, estimated cost, and budget impact.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "6. Capital Expenditure",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_008",
+    "text": "Operating expenses require an approved business requirement and available budget. Where Procurement requirements also apply, Procurement approval and sourcing controls must be completed in addition to financial approval.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "7. Operating Expenses",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_009",
+    "text": "Employees must submit reimbursement claims within 15 calendar days. Claims must include supporting documentation and follow the Expense Policy and Approval Matrix.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "8. Employee Expenses",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_010",
+    "text": "Emergency purchases may bypass the normal pre-commitment sequence when delay would materially affect continuity, safety, critical operations, or preventable loss. Retrospective approval and documentation must be completed within 2 business days.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "9. Emergency Purchases",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_011",
+    "text": "Exceptions require documented justification and approval from the appropriate Finance authority. An exception does not automatically waive Procurement, Legal, security, or other applicable requirements.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "10. Exceptions",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_012",
+    "text": "Department Managers and Heads review business need and budget context. Finance verifies financial controls. The CFO approves purchases above the CFO threshold. Employees are responsible for accurate and timely documentation.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "11. Responsibilities",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_013",
+    "text": "1. Identify requirement. 2. Prepare budget and supporting documents. 3. Check Procurement and Legal requirements. 4. Obtain financial approval. 5. Process purchase/expense and retain records.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "12. Approval Workflow",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_014",
+    "text": "Financial approval records, supporting documents, exception approvals, and related transaction records must be retained for 7 years unless a longer period is required.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "13. Record Retention",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_014"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_015",
+    "text": "2025 - Initial policy issued. 2026 - Approval thresholds and emergency approval process revised.",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Finance_Approval_Policy",
+      "document_type": "PDF",
+      "source_file": "data/raw/Finance/Finance_Approval_Policy.pdf",
+      "policy_title": "Financial Approval and Authorization Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_FINANCE_APPROVAL_POLICY",
+      "section": "14. Revision History",
+      "chunk_id": "FINANCE_FINANCE_APPROVAL_POLICY_CHUNK_015"
+    }
+  }
+]

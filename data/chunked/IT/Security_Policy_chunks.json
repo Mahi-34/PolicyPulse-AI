@@ -1,0 +1,240 @@
+[
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_001",
+    "text": "**NovaCore Technologies Pvt. Ltd.  \nSECURITY POLICY**\n\n| **Document ID**      | IT-POL-002                                     |\n|----------------------|------------------------------------------------|\n| **Department**       | IT                                             |\n| **Document Type**    | Policy                                         |\n| **Policy Title**     | Information Security and Access Control Policy |\n| **Version**          | 2026                                           |\n| **Effective Date**   | 01-Apr-2026                                    |\n| **Owner Department** | IT                                             |",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "Document Introduction",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_002",
+    "text": "This policy establishes information security and access-control requirements for organizational accounts, authentication, remote access, provisioning, modification, revocation, and incident reporting.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_003",
+    "text": "This policy applies to employees, contractors where applicable, organizational systems, accounts, devices, and information resources.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_004",
+    "text": "IT provisions organizational access after receiving an authorized request containing employee ID, department, role, required systems, and manager approval.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "3. Account Provisioning",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_005",
+    "text": "Organizational accounts must use approved authentication controls. Multi-factor authentication (MFA) is required where supported and designated by IT standards.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "4. Authentication",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_006",
+    "text": "Users must protect credentials, use approved password practices, and never share authentication credentials with other individuals.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "5. Passwords and Credentials",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_007",
+    "text": "When an employee changes role or responsibilities, access privileges must be reviewed and modified according to the employee's new business requirements.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "6. Access Modification",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_008",
+    "text": "During offboarding, IT disables organizational system access by the employee's final working day, subject to documented security or operational requirements.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "7. Access Revocation",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_009",
+    "text": "Remote work must use company-approved devices, secure authentication, MFA where required, and approved network/security controls. Organizational credentials must not be shared.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "8. Remote Access",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_010",
+    "text": "Suspected security incidents must be reported to the IT Service Desk or designated IT security channel as soon as reasonably possible. IT coordinates technical investigation and containment.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "9. Security Incidents",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_011",
+    "text": "Employees must protect organizational information, follow security controls, report incidents, and use systems only for authorized purposes.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "10. Employee Responsibilities",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_012",
+    "text": "Managers provide accurate role and authorization information. HR provides relevant employee lifecycle information. IT manages provisioning, modification, revocation, and technical security controls.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "11. Manager and HR Responsibilities",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_013",
+    "text": "Exceptions require documented justification, risk consideration, and applicable IT/security approval.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "12. Exceptions",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "IT_SECURITY_POLICY_CHUNK_014",
+    "text": "2025 — Initial policy issued. 2026 — Access lifecycle, MFA, remote access, and incident reporting requirements updated.",
+    "metadata": {
+      "department": "IT",
+      "document_name": "Security_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/IT/Security_Policy.docx",
+      "policy_title": "Information Security and Access Control Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "IT",
+      "document_id": "IT_SECURITY_POLICY",
+      "section": "13. Revision History",
+      "chunk_id": "IT_SECURITY_POLICY_CHUNK_014"
+    }
+  }
+]

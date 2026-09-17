@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_001",
+    "text": "| Document ID      | OPS-MAT-001       |\n|------------------|-------------------|\n| Department       | Operations        |\n| Document Name    | Escalation Matrix |\n| Document Type    | Escalation Matrix |\n| Version          | 2026              |\n| Effective Date   | 01-Apr-2026       |\n| Owner Department | Operations        |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Escalation_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Operations/Escalation_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_ESCALATION_MATRIX",
+      "section": "Table 1",
+      "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_002",
+    "text": "| Priority      | Trigger                             | Initial Owner   | First Escalation                         | Escalation Deadline   | Business Coordination                                                |\n|---------------|-------------------------------------|-----------------|------------------------------------------|-----------------------|----------------------------------------------------------------------|\n| P1 — Critical | Critical business disruption        | Operations      | IT Duty Manager                          | 30 minutes            | Operations coordinates business impact and stakeholder communication |\n| P2 — High     | Significant service/business impact | Operations      | IT Service Lead where technology-related | 2 hours               | Operations coordinates impact and escalation                         |\n| P3 — Normal   | Limited operational impact          | Operations      | Department Manager where required        | 1 business day        | Routine operational coordination                                     |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Escalation_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Operations/Escalation_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_ESCALATION_MATRIX",
+      "section": "Table 2",
+      "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_003",
+    "text": "| Incident Type          | Example Trigger                             | Primary Technical Owner   | Operations Role                                                         | Initial Response   |\n|------------------------|---------------------------------------------|---------------------------|-------------------------------------------------------------------------|--------------------|\n| Application Outage     | Business application unavailable            | IT                        | Coordinate business impact and communication                            | 30 minutes for P1  |\n| Network Outage         | Material connectivity disruption            | IT                        | Coordinate business impact and escalation                               | 30 minutes for P1  |\n| Security Incident      | Suspected security event                    | IT/Security               | Coordinate operational impact; follow restricted communication controls | Priority-based     |\n| Data Access Issue      | Authorized user cannot access required data | IT                        | Coordinate business requirement                                         | Priority-based     |\n| Hardware Failure       | Critical organizational hardware failure    | IT                        | Coordinate affected business service                                    | Priority-based     |\n| Infrastructure Failure | Infrastructure service disruption           | IT                        | Coordinate operational impact                                           | Priority-based     |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Escalation_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Operations/Escalation_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_ESCALATION_MATRIX",
+      "section": "Table 3",
+      "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_004",
+    "text": "| Priority   | Response Target   | Resolution Target   | P1 Update Requirement                                               | Escalation Reference   | Exception Examples                                                                          |\n|------------|-------------------|---------------------|---------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------------|\n| P1         | 30 minutes        | 4 hours             | Initial update within 60 minutes; subsequent at least every 2 hours | Incident Escalation    | Force majeure, planned maintenance, third-party failure, restricted security communications |\n| P2         | 2 hours           | 8 hours             | As appropriate                                                      | Incident Escalation    | Force majeure, planned maintenance, third-party failure                                     |\n| P3         | 1 business day    | 3 business days     | As appropriate                                                      | Incident Escalation    | Force majeure, planned maintenance, third-party failure                                     |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Escalation_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Operations/Escalation_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_ESCALATION_MATRIX",
+      "section": "Table 4",
+      "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_005",
+    "text": "| Role                   | Department          | Responsibility                                                  | Trigger                            | Contact Method                    |\n|------------------------|---------------------|-----------------------------------------------------------------|------------------------------------|-----------------------------------|\n| Operations Coordinator | Operations          | Coordinate business incident                                    | Operational incident               | Designated organizational channel |\n| IT Duty Manager        | IT                  | Technical escalation for critical technology incidents          | P1 technology incident             | Designated organizational channel |\n| IT Service Lead        | IT                  | Technical escalation for high-priority technology incidents     | P2 technology incident             | Designated organizational channel |\n| Department Manager     | Business Department | Business decision and coordination                              | P3 or business-specific escalation | Designated organizational channel |\n| Legal Representative   | Legal               | Legal guidance when incident has contractual/legal implications | Applicable legal issue             | Designated organizational channel |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "Escalation_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Operations/Escalation_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_ESCALATION_MATRIX",
+      "section": "Table 5",
+      "chunk_id": "OPERATIONS_ESCALATION_MATRIX_CHUNK_005"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_001",
+    "text": "**NovaCore Technologies Pvt. Ltd.  \nVENDOR ONBOARDING**\n\n| **Document ID**      | PROC-PROC-002               |\n|----------------------|-----------------------------|\n| **Department**       | Procurement                 |\n| **Document Type**    | Procedure                   |\n| **Procedure Title**  | Vendor Onboarding Procedure |\n| **Version**          | 2026                        |\n| **Effective Date**   | 01-Apr-2026                 |\n| **Owner Department** | Procurement                 |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "Document Introduction",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_002",
+    "text": "This procedure defines the steps and responsibilities for registering, evaluating, approving, activating, reviewing, and suspending vendors.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "1. Purpose",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_003",
+    "text": "It applies to new vendors providing goods or services to NovaCore Technologies Pvt. Ltd.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "2. Scope",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_004",
+    "text": "Vendors may be classified as standard, strategic, high-risk, technology, or single-source based on business importance, risk, specialization, and sourcing conditions.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "3. Vendor Classification",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_005",
+    "text": "The requesting department initiates the vendor request. Procurement records the vendor's legal name, address, tax identification details, bank information, ownership information, contact details, certifications, and relevant declarations.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "4. Vendor Registration",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_006",
+    "text": "Typical documentation includes registration certificates, tax records, bank details, ownership information, certifications, compliance declarations, conflict-of-interest declarations, and other documents required for the vendor category.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "5. Required Documents",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_007",
+    "text": "Procurement performs applicable commercial and onboarding checks. Compliance concerns must be documented and escalated for appropriate review.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "6. Due Diligence and Compliance Screening",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_008",
+    "text": "Finance verifies applicable financial information, banking details, tax information, and other financial controls before vendor activation.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "7. Finance Verification",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_009",
+    "text": "Legal review is required where the vendor relationship, contract, risk profile, data handling, intellectual property, regulatory exposure, or other circumstances make legal review applicable.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "8. Legal Review",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_010",
+    "text": "The workflow is: vendor identified → registration → document collection → compliance screening → Finance verification → Legal review where required → Procurement approval → vendor activation.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "9. Vendor Approval and Activation",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_011",
+    "text": "Strategic, high-risk, technology, and other designated vendors may be subject to periodic review of documentation, performance, compliance, and risk.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "10. Periodic Review",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_012",
+    "text": "Procurement may initiate a suspension review when material compliance, performance, documentation, or risk concerns arise. Legal may recommend suspension where legal or compliance concerns exist. This procedure does not define a final approving authority for vendor suspension.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "11. Vendor Suspension",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_013",
+    "text": "Requesting departments provide business information. Procurement manages onboarding and records. Finance performs applicable financial verification. Legal performs applicable legal review. Relevant stakeholders provide timely documentation.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "12. Responsibilities",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_013"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_014",
+    "text": "Exceptions to standard onboarding requirements must be documented and approved through the applicable departmental process.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "13. Exceptions",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_014"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_015",
+    "text": "2025 — Initial procedure issued. 2026 — Vendor classification, compliance screening, and onboarding workflow updated.",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Vendor_Onboarding",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Procurement/Vendor_Onboarding.docx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_VENDOR_ONBOARDING",
+      "section": "14. Revision History",
+      "chunk_id": "PROCUREMENT_VENDOR_ONBOARDING_CHUNK_015"
+    }
+  }
+]

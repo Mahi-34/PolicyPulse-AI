@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_001",
+    "text": "| Document ID      | FIN-MAT-001     |\n|------------------|-----------------|\n| Department       | Finance         |\n| Document Name    | Approval Matrix |\n| Document Type    | Approval Matrix |\n| Version          | 2026            |\n| Effective Date   | 01-Apr-2026     |\n| Owner Department | Finance         |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Approval_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Finance/Approval_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_APPROVAL_MATRIX",
+      "section": "Table 1",
+      "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_002",
+    "text": "| Purchase Value         | Primary Finance Authority   | Additional Requirement                                                    | Notes                                       |\n|------------------------|-----------------------------|---------------------------------------------------------------------------|---------------------------------------------|\n| Up to ₹1,00,000        | Department Manager          | Applicable Procurement process                                            | Pre-commitment approval required            |\n| ₹1,00,001 – ₹5,00,000  | Department Head             | Applicable Procurement process                                            | Budget and business justification required  |\n| ₹5,00,001 – ₹10,00,000 | Finance Controller          | Procurement Committee where applicable                                    | Review applicable departmental requirements |\n| Above ₹10,00,000       | CFO                         | Finance Controller review + Procurement Committee under Procurement rules | CFO approval required before commitment     |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Approval_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Finance/Approval_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_APPROVAL_MATRIX",
+      "section": "Table 2",
+      "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_003",
+    "text": "| Claim Value         | Required Approver   | Submission Deadline     | Documentation                                 |\n|---------------------|---------------------|-------------------------|-----------------------------------------------|\n| Up to ₹25,000       | Manager             | Within 15 calendar days | Valid supporting documents                    |\n| ₹25,001 – ₹1,00,000 | Department Head     | Within 15 calendar days | Valid supporting documents + business purpose |\n| Above ₹1,00,000     | Finance Controller  | Within 15 calendar days | Valid supporting documents + business purpose |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Approval_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Finance/Approval_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_APPROVAL_MATRIX",
+      "section": "Table 3",
+      "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_004",
+    "text": "| Value                         | Finance Review   | CFO Approval                    | Supporting Information                                      |\n|-------------------------------|------------------|---------------------------------|-------------------------------------------------------------|\n| Up to ₹5,00,000               | As applicable    | No CFO threshold triggered      | Business justification and budget context                   |\n| Above ₹5,00,000 to ₹10,00,000 | Required         | Not required by value threshold | Business justification, useful life, cost and budget impact |\n| Above ₹10,00,000              | Required         | Required                        | Business justification, useful life, cost and budget impact |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Approval_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Finance/Approval_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_APPROVAL_MATRIX",
+      "section": "Table 4",
+      "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_005",
+    "text": "| Emergency Scenario            | Normal Pre-Approval                              | Retrospective Deadline   | Required Action                                |\n|-------------------------------|--------------------------------------------------|--------------------------|------------------------------------------------|\n| Business continuity risk      | May be bypassed when delay creates material risk | Within 2 business days   | Document reason and obtain applicable approval |\n| Safety or critical operations | May be bypassed when delay creates material risk | Within 2 business days   | Document reason and obtain applicable approval |\n| Preventable material loss     | May be bypassed when delay creates material risk | Within 2 business days   | Document reason and obtain applicable approval |",
+    "metadata": {
+      "department": "Finance",
+      "document_name": "Approval_Matrix",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Finance/Approval_Matrix.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Finance",
+      "document_id": "FINANCE_APPROVAL_MATRIX",
+      "section": "Table 5",
+      "chunk_id": "FINANCE_APPROVAL_MATRIX_CHUNK_005"
+    }
+  }
+]

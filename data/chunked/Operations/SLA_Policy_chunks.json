@@ -1,0 +1,223 @@
+[
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_001",
+    "text": "**NovaCore Technologies Pvt. Ltd.  \nSLA POLICY**\n\n| **Document ID**      | OPS-POL-002                                |\n|----------------------|--------------------------------------------|\n| **Department**       | Operations                                 |\n| **Document Type**    | Policy                                     |\n| **Policy Title**     | Service Level and Incident Response Policy |\n| **Version**          | 2026                                       |\n| **Effective Date**   | 01-Apr-2026                                |\n| **Owner Department** | Operations                                 |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "Document Introduction",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_002",
+    "text": "This policy defines service-level targets, incident classification, response and resolution expectations, communication, escalation, exceptions, monitoring, and reporting.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "1. Purpose",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_003",
+    "text": "The policy applies to operational incidents and services managed or coordinated by Operations, including technology-related incidents where IT is the responsible technical team.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "2. Scope",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_004",
+    "text": "P1 incidents are critical, P2 incidents are high impact, and P3 incidents are normal priority.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "3. Incident Classification",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_005",
+    "text": "| **Priority**   | **Response Target**   | **Resolution Target**   |\n|----------------|-----------------------|-------------------------|\n| P1 — Critical  | 30 minutes            | 4 hours                 |\n| P2 — High      | 2 hours               | 8 hours                 |\n| P3 — Normal    | 1 business day        | 3 business days         |",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "4. Service Level Targets",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_005"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_006",
+    "text": "For P1 incidents, an initial update should be provided within 60 minutes. Subsequent updates should be provided at least every 2 hours until service restoration, subject to applicable security communication restrictions.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "5. P1 Communication",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_006"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_007",
+    "text": "Incidents are escalated according to priority, impact, elapsed response time, and the Escalation Matrix. Technology incidents may be escalated to IT for technical investigation.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "6. Escalation",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_007"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_008",
+    "text": "Resolution targets represent operational service-level objectives. Resolution may require coordination among Operations, IT, business departments, vendors, or other responsible teams.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "7. Resolution",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_008"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_009",
+    "text": "Operations monitors response and resolution performance and records relevant timestamps, escalation events, exceptions, and outcomes.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "8. Monitoring",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_009"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_010",
+    "text": "SLA exceptions may include force majeure, planned maintenance, third-party failure, restricted security incident communications, or other documented circumstances.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "9. Exceptions",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_010"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_011",
+    "text": "Operations coordinates service levels and business communication. IT handles technical investigation where applicable. Managers support business decisions and escalation.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "10. Responsibilities",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_011"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_012",
+    "text": "Periodic SLA reporting may include incident volumes, priority distribution, response performance, resolution performance, escalations, exceptions, and recurring issues.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "11. Reporting",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_012"
+    }
+  },
+  {
+    "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_013",
+    "text": "2025 — Initial policy issued. 2026 — SLA targets, communication requirements, and exception handling updated.",
+    "metadata": {
+      "department": "Operations",
+      "document_name": "SLA_Policy",
+      "document_type": "DOCX",
+      "source_file": "data/raw/Operations/SLA_Policy.docx",
+      "policy_title": "Service Level and Incident Response Policy",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Operations",
+      "document_id": "OPERATIONS_SLA_POLICY",
+      "section": "12. Revision History",
+      "chunk_id": "OPERATIONS_SLA_POLICY_CHUNK_013"
+    }
+  }
+]

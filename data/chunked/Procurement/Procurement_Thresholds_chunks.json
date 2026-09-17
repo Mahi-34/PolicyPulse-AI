@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_001",
+    "text": "| Document ID      | PROC-MAT-001           |\n|------------------|------------------------|\n| Department       | Procurement            |\n| Document Name    | Procurement Thresholds |\n| Document Type    | Threshold Matrix       |\n| Version          | 2026                   |\n| Effective Date   | 01-Apr-2026            |\n| Owner Department | Procurement            |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Thresholds",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Procurement/Procurement_Thresholds.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS",
+      "section": "Table 1",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_001"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_002",
+    "text": "| Purchase Type     | Amount Range           | Quotation Requirement   | Procurement Approval                              | Finance Review                           | Purchase Order Required   | Exception                                   |\n|-------------------|------------------------|-------------------------|---------------------------------------------------|------------------------------------------|---------------------------|---------------------------------------------|\n| Standard purchase | Up to ₹1,00,000        | 1 quotation             | Department Manager / applicable business approval | As applicable                            | Yes                       | Documented exception if applicable          |\n| Standard purchase | ₹1,00,001 – ₹5,00,000  | 2 quotations            | Department Head                                   | As applicable                            | Yes                       | Documented exception if applicable          |\n| Standard purchase | ₹5,00,001 – ₹10,00,000 | 3 quotations            | Procurement Committee                             | Finance review as applicable             | Yes                       | Single-source/emergency exception may apply |\n| Standard purchase | Above ₹10,00,000       | 3 quotations            | Procurement Committee                             | CFO + Finance review under Finance rules | Yes                       | Single-source/emergency exception may apply |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Thresholds",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Procurement/Procurement_Thresholds.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS",
+      "section": "Table 2",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_002"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_003",
+    "text": "| Vendor Category   | Typical Use                           | Due Diligence                             | Legal Review                 | Periodic Review   |\n|-------------------|---------------------------------------|-------------------------------------------|------------------------------|-------------------|\n| Standard          | Routine goods/services                | Registration and standard documentation   | When applicable              | As designated     |\n| Strategic         | Business-critical supplier            | Enhanced commercial and risk review       | When applicable              | Periodic          |\n| High-risk         | Higher compliance or operational risk | Enhanced due diligence                    | Required where risk warrants | Periodic          |\n| Technology        | Technology or software supplier       | Technical, security and commercial review | When applicable              | Periodic          |\n| Single-source     | Only qualified/proprietary supplier   | Business justification + documentation    | When applicable              | As designated     |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Thresholds",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Procurement/Procurement_Thresholds.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS",
+      "section": "Table 3",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_003"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_004",
+    "text": "| Exception Type         | When It May Apply                                                     | Required Documentation                        | Approval Considerations                           |\n|------------------------|-----------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------|\n| Emergency              | Business continuity, safety, critical operations, or preventable loss | Reason, supplier basis, urgency               | Applicable retrospective approval                 |\n| Single-source          | Proprietary technology, specialized service, only qualified supplier  | Business justification and supplier rationale | Applicable Procurement/Finance/Legal requirements |\n| Proprietary technology | Supplier owns or uniquely provides required technology                | Technical/business justification              | Legal and security review where applicable        |\n| Business continuity    | Delay creates material operational risk                               | Risk and continuity rationale                 | Applicable business and financial approval        |\n| Regulatory requirement | Specific supplier/process required by regulation                      | Regulatory basis                              | Legal review where applicable                     |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Thresholds",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Procurement/Procurement_Thresholds.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS",
+      "section": "Table 4",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_004"
+    }
+  },
+  {
+    "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_005",
+    "text": "| Stage               | Primary Owner         | Key Activity                                 | Output                          | Related Control         |\n|---------------------|-----------------------|----------------------------------------------|---------------------------------|-------------------------|\n| 1. Requirement      | Requesting Department | Define need, scope, budget and timing        | Purchase requisition            | Business justification  |\n| 2. Sourcing         | Procurement           | Identify and evaluate suppliers              | Supplier shortlist / quotations | Quotation threshold     |\n| 3. Financial Review | Finance               | Review financial controls and approval level | Finance review                  | Finance Approval Matrix |\n| 4. Legal Review     | Legal                 | Review contract/legal risk where applicable  | Legal comments/clearance        | Contract Policy         |\n| 5. Approval         | Authorized Approver   | Confirm required approvals                   | Approved purchase               | Threshold controls      |\n| 6. Purchase         | Procurement           | Issue purchase order / complete procurement  | PO / purchase record            | PO requirement          |",
+    "metadata": {
+      "department": "Procurement",
+      "document_name": "Procurement_Thresholds",
+      "document_type": "XLSX",
+      "source_file": "data/raw/Procurement/Procurement_Thresholds.xlsx",
+      "version": "2026",
+      "effective_date": "01-Apr-2026",
+      "owner_department": "Procurement",
+      "document_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS",
+      "section": "Table 5",
+      "chunk_id": "PROCUREMENT_PROCUREMENT_THRESHOLDS_CHUNK_005"
+    }
+  }
+]
