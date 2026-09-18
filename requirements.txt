@@ -1,0 +1,6 @@
+llama-index-core==0.14.24
+llama-index-vector-stores-qdrant==0.10.3
+llama-index-embeddings-huggingface==0.8.0
+qdrant-client==1.19.1
+sentence-transformers==6.0.1
+transformers==5.17.0
